@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ExtraLife Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				78
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ExtraLife Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				79
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ExtraLife Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ExtraLife Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				93
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ExtraLife Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				414,
+				645
+			],
+			"anim": "finale",
+			"fps": 24,
+			"name": "ExtraLife Final",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				97
+			],
+			"anim": "throw",
+			"fps": 24,
+			"name": "ExtraLife Throw",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Extralifeangry",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "extraicons",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		111,
+		127
+	],
+	"camera_position": [
+		0,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

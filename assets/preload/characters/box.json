@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-140
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "IdleBox",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-145
+			],
+			"anim": "laugh1",
+			"fps": 24,
+			"name": "BoxLaugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleBox",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-4
+			],
+			"anim": "hit",
+			"fps": 24,
+			"name": "box mic hit",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Box",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "extraicons",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		111,
+		127
+	],
+	"camera_position": [
+		-100,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
