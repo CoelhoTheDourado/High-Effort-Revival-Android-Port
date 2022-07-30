@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "ehz",
+		"player1": "bf",
+		"player2": "box",
+		"player3": null,
+		"events": [
+			[
+				9767.44186046511,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfhit"
+					]
+				]
+			],
+			[
+				10029.0697674419,
+				[
+					[
+						"Hey!",
+						"BF",
+						"1"
+					]
+				]
+			],
+			[
+				10377.9069767442,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					]
+				]
+			],
+			[
+				10465.1162790698,
+				[
+					[
+						"Flash Camera",
+						"0.3",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"extralife"
+					]
+				]
+			],
+			[
+				33488.3720930232,
+				[
+					[
+						"Play Animation",
+						"ugly",
+						"extralife"
+					]
+				]
+			],
+			[
+				33837.2093023256,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				35668.6046511628,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				37151.1627906977,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"ugly2",
+						"extralife"
+					]
+				]
+			],
+			[
+				56424.4186046512,
+				[
+					[
+						"Play Animation",
+						"notbad",
+						"extralife"
+					]
+				]
+			],
+			[
+				82325.5813953488,
+				[
+					[
+						"Play Animation",
+						"enough",
+						"extralife"
+					]
+				]
+			],
+			[
+				93139.5348837209,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"extralife"
+					]
+				]
+			],
+			[
+				117209.302325581,
+				[
+					[
+						"Play Animation",
+						"finale",
+						"extralife"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "why is she on the box guys what the hell",
+		"bpm": 172,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "revival"
+	}
+}
